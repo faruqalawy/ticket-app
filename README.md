@@ -16,9 +16,9 @@ Ikuti langkah-langkah berikut untuk menjalankan backend:
 3. **Konfigurasi Environment**: Buat file `.env` di direktori `backend` dan masukkan variabel lingkungan berikut:
     ```env
     MONGODB_URL=mongodb+srv://whitepanther050595:demomongodb@cluster0.usvln.mongodb.net/tickets_app
-SESSION_SECRET=83WODFHSA8DAWA8ERWEFUSOSD
-APP_PORT=5000
-CLIENT_URL=http://localhost:5173
+    SESSION_SECRET=83WODFHSA8DAWA8ERWEFUSOSD
+    APP_PORT=5000
+    CLIENT_URL=http://localhost:5173
     ```
 
 4. **Jalankan Server**:
